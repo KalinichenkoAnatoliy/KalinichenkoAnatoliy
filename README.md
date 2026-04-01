@@ -1,27 +1,48 @@
-## Привет 👋
-QA Automation Engineer (Python).
-Мой переход в тестирование обусловлен опытом работы в финансовой сфере: там я увидел, 
-насколько критична точность данных и как много времени занимает ручная проверка отчетов. 
-Это привело меня к осознанному выбору автоматизации - я хочу не просто находить ошибки, 
-а создавать надежные инструменты (скрипты на Python), которые предотвращают их появление 
-и ускоряют релизы. Именно поэтому я сфокусировался на стеке Python + Pytest + Selenium: 
-это сочетание позволяет писать чистый, поддерживаемый код и эффективно покрывать тестами 
-как UI, так и API.
-В процессе обучения и развития я углубляю знания через изучение профильной литературы и
-слежу за индустрией через телеграм каналы вроде "QA Portal" или "QAPedia" и блоги компаний (Яндекс, Ozon Tech). 
-Готов выполнить тестовое задание и пройти собеседование.
-На связи в Telegram: https://t.me/borbaron
+# 👋 Привет, я Анатолий Калиниченко
+
+### 🎓 AQA-инженер | Python | Автотесты
+
+> Дипломный проект: комплексное тестирование сервиса доставки **Stellar Burgers**
+
+---
+
+## 🍔 Проекты дипломной работы
+
+| Проект | Описание | Технологии | Статус |
+|--------|----------|-----------|--------|
+| [🧪 Unit-тесты](https://github.com/KalinichenkoAnatoliy/stellar-burgers-unit-tests) | Покрытие класса `Burger` юнит-тестами | `pytest`, `pytest-cov`, `mock` | ✅ 100% coverage |
+| [🌐 API-тесты](https://github.com/KalinichenkoAnatoliy/stellar-burgers-api-tests) | Автотесты REST API сервиса | `pytest`, `requests`, `Allure` | ✅ Готово |
+| [🖥️ UI-тесты](https://github.com/KalinichenkoAnatoliy/stellar-burgers-ui-tests) | E2E-тесты интерфейса в Chrome/Firefox | `Selenium`, `Page Object`, `Allure` | ✅ Готово |
+
+🔗 **Все проекты запушены в ветки:** `develop1` | `develop2` | `develop3`
+
+---
+
+## 🛠 Мои навыки
+
+```yaml
+Languages:
+  - Python 3.x
+  - SQL (basic)
+  - Bash
+
+Testing:
+  - pytest / unittest
+  - requests / httpx
+  - Selenium WebDriver
+  - Allure Report
+  - Page Object Model
+
+Tools:
+  - Git / GitHub
+  - Docker (basic)
+  - Postman / curl
+  - CI/CD concepts
+
+Methodologies:
+  - Unit / API / UI testing
+  - Mocking & Parameterization
+  - Test documentationНа связи в Telegram: https://t.me/borbaron
 <!--
 **KalinichenkoAnatoliy/KalinichenkoAnatoliy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
